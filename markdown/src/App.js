@@ -1,8 +1,8 @@
 
-import logo from './logo.svg';
+
 import './App.css';
 import React from 'react';
-import ReactDom from 'react-dom'
+
 import unified from 'unified'
 import parse from 'remark-parse'
 import remark2react from 'remark-react'
