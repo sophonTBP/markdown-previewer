@@ -1,6 +1,6 @@
-#done passing Fcc tests
+# Done passing Fcc tests
 
 
-##still needs : *Styling*
-                *Sanitysing*
-                *Responsivness* 
+## Still needs : *Styling*
+                 *Sanitysing*
+                 *Responsivness* 
