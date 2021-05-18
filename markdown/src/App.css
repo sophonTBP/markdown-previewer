@@ -13,14 +13,18 @@
 }
 #editor{
   grid-area: editor;
-
+  
+  box-shadow: 1px 1px 3.5px rgb(0, 0, 0);
+  resize: none;
+  border-color: Transparent;
  
 }
 #preview{
   grid-area: preview;
+  padding-left: 0.8rem;
  
-  border: 1px solid black;
-  min-height: 92vh;
+  box-shadow: 1px 1px 3.5px rgb(0, 0, 0);
+  min-height: 89vh;
 }
 #footer{
   grid-area: footer;
