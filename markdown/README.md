@@ -2,6 +2,8 @@
 
 
 ## Still needs :
-*Styling* /n
-*Sanitysing* /n
+*Styling* 
+
+*Sanitysing* 
+
 *Responsivness*
